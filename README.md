@@ -2,13 +2,7 @@
 
 2) Download the file  recaptchalib.php to a folder  anchor / plugins / reCAPTCHA / 
 
-3) Сhange the code add a comment /anchor/routes/site.php  to my  site.php (https://github.com/Svetozar95/anchor_reCAPTHCA/blob/master/change%20code )
-
-/**
- * Post a comment
- */
-..........
-
+3) Сhange the code add a comment (Post a comment) /anchor/routes/site.php  to my  site.php (https://github.com/Svetozar95/anchor_reCAPTHCA/blob/master/change%20code )
 
 
 
