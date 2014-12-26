@@ -9,9 +9,9 @@
 
 - I turned off the check messages for spam.
 - In my code are sent a notification email when any communication
+
+
 --anchor / plugins / reCAPTCHA / recaptchalib.php taken from free sources. Later, lay a link to the original
-
-
 
 
 --------
