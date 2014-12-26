@@ -5,6 +5,10 @@
 3) Сhange the code add a comment (Post a comment) /anchor/routes/site.php  to my  site.php (https://github.com/Svetozar95/anchor_reCAPTHCA/blob/master/change%20code )
 
 
+4) Add in /themes/name_your_them/article.php :
+ <div class="g-recaptcha" data-sitekey="*****************"></div>
+
+
 
 - I turned off the check messages for spam.
 - In my code are sent a notification email when any communication
