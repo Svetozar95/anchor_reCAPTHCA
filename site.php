@@ -157,8 +157,8 @@ Route::post($posts_page->slug . '/(:any)', function($slug) use($posts_page) {
 
 require_once "anchor/plugins/reCAPTCHA/recaptchalib.php";
 // Register API keys at https://www.google.com/recaptcha/admin
-$siteKey = "6LdRrv8SAAAAANuGJ-NSrgMQiOOdycqWLvqAmz12";
-$secret = "6LdRrv8SAAAAAPMwQfo3fwKi0Mwklf9TKSVAQcgX";
+$siteKey = "sitekey";
+$secret = "secretkey";
 // reCAPTCHA supported 40+ languages listed here: https://developers.google.com/recaptcha/docs/language
 $lang = "ru";
 // The response from reCAPTCHA
