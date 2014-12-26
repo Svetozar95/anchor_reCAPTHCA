@@ -6,7 +6,8 @@
 
 
 4) Add in /themes/name_your_them/article.php :
- <div class="g-recaptcha" data-sitekey="*****************"></div>
+
+ <div class='g-recaptcha' data-sitekey=''></div>
 
 
 
